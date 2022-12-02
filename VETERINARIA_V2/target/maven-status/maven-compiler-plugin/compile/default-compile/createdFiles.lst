@@ -1,0 +1,14 @@
+com\mycompany\veterinaria_v2\View\VwIngreso.class
+com\mycompany\veterinaria_v2\Validaciones\Validaciones.class
+com\mycompany\veterinaria_v2\View\VwGato.class
+com\mycompany\veterinaria_v2\DTO\Gato.class
+com\mycompany\veterinaria_v2\DTO\Ingreso.class
+com\mycompany\veterinaria_v2\DTO\Veterinario.class
+com\mycompany\veterinaria_v2\principal$1.class
+com\mycompany\veterinaria_v2\Service\ListaIngreso.class
+com\mycompany\veterinaria_v2\Service\ListaVeterinario.class
+com\mycompany\veterinaria_v2\View\VwPerro.class
+com\mycompany\veterinaria_v2\View\VwVeterinario.class
+com\mycompany\veterinaria_v2\principal.class
+com\mycompany\veterinaria_v2\DTO\Perro.class
+com\mycompany\veterinaria_v2\Service\ListaAnimal.class
